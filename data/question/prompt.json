@@ -1,0 +1,490 @@
+[
+    {
+        "name": "19-1 (2).png",
+        "prompt": "According to the picture, after click the green flag, what would happen? A.The character will turn right 30 degrees, move 10 steps, say Meow B.The character will turn right 30 degrees, hold on a moment, move 10 steps, say Meow C.The character will turn right 30 degrees D.The character will turn right 30 degrees, move 10 steps\n"
+    },
+    {
+        "name": "19-1.png",
+        "prompt": "After running the program, the direction of the character is? A.up B.down C.left D.right \n"
+    },
+    {
+        "name": "19-2 (2).png",
+        "prompt": "If the character touch the dust, what would he say? A.Recyclable garbage B.Hazardous waste C.Kitchen waste D.Dry garbage\n"
+    },
+    {
+        "name": "19-2 (5).png",
+        "prompt": "After running the program, what is the figure drawn? A.Regular triangle B.Regular quadrilateral C.Regular hexagon D.Regular octagon\n"
+    },
+    {
+        "name": "19-2.png",
+        "prompt": "After running the program, the direction of the character is? A.Top right B.Bottom right C.Top left D.Bottom left\n"
+    },
+    {
+        "name": "19-3 (2).png",
+        "prompt": "After running the program, What is the final possible shape? A.Square B.Round C.Teardrop D.Semicircular\n"
+    },
+    {
+        "name": "19-3 (3).png",
+        "prompt": "After click the green flag and run the program, the direction of the character is? A.up B.down C.left D.right\n"
+    },
+    {
+        "name": "19-3 (4).png",
+        "prompt": "What is the result of this block? A.Generate random numbers 0 and 1, and the chance of 0 appearing is greater than 1 B.Generate random numbers 0 and 1, and the chance of 1 appearing is greater than 0 C.Generate 1 and 10 random integers D.Generate 1 and 10 random integers and decimals\n"
+    },
+    {
+        "name": "19-3 (5).png",
+        "prompt": "Execute the following statement, what is the character's action? A.Always move, bounce off the edge B.No movement C.May or may not move D.Statement error\n"
+    },
+    {
+        "name": "19-3.png",
+        "prompt": "The result of executing the following program is? A.75 B.50 C.60 D.0\n"
+    },
+    {
+        "name": "19-4 (2).png",
+        "prompt": "According to the code, click the green flag, what will be said? A.5 B.8 C.32 D.output\n"
+    },
+    {
+        "name": "20-1-12 (2).png",
+        "prompt": "Which block could make the character's direction turn from right to the left? A. B. C. D.\n"
+    },
+    {
+        "name": "20-1-12 (3).png",
+        "prompt": "Execute the following program, how many steps did the character take? A.115 B.100 C.110 D.200\n"
+    },
+    {
+        "name": "20-1-12 (4).png",
+        "prompt": "Which group of blocks could make the character stand upside down? A. B. C. D.\n"
+    },
+    {
+        "name": "20-1-12.png",
+        "prompt": "The picture shows the kitten's initial direction. Which building block can make the kitten face right? A. B. C. D.\n"
+    },
+    {
+        "name": "20-1-6.png",
+        "prompt": "Which set of blocks can make the character move to the left? A. B. C. D.\n"
+    },
+    {
+        "name": "20-1-9 (2).png",
+        "prompt": "The side length of the square is 30. Which of the following programs can help the frog catch the butterfly along the arrow? A. B. C. D.\n"
+    },
+    {
+        "name": "20-1-9.png",
+        "prompt": "Which of the following sets of blocks cannot achieve the character's final direction of 130 degrees? A. B. C. D.\n"
+    },
+    {
+        "name": "20-2-12 (2).png",
+        "prompt": "Execute the following program, press the → key once, what would rabbit do? A.Move right 10 steps B.Move left 10 steps C.Move up 10 steps D.Move down 10 steps\n"
+    },
+    {
+        "name": "20-2-12 (3).png",
+        "prompt": "The result of executing the following program is? A.pp B.ap C.np D.pn\n"
+    },
+    {
+        "name": "20-2-12 (4).png",
+        "prompt": "The result of which block is true? A. B. C. D.\n"
+    },
+    {
+        "name": "20-2-12.png",
+        "prompt": "The character's initial coordinates are (0,0), where will the character appear after executing the program? A.The x coordinate is 10, the y coordinate is 50 B.The x coordinate is 40, the y coordinate is 50 C.The x coordinate is 50, the y coordinate is 40 D.The x coordinate is 30, the y coordinate is 50\n"
+    },
+    {
+        "name": "20-2-6 (2).png",
+        "prompt": "Run the following script. What actions will the character perform? A.The character moves forward 30 steps, then turns right 15 degrees and stops. B.The character moves forward 30 steps, then turns right 15 degrees, and repeats to draw a circle. C.The character moves forward 30 steps, then turns right 15 steps, and repeats, never stopping. D.The character moves forward 30 steps, then turns right 15 steps, and repeats until any key is pressed to stop.\n"
+    },
+    {
+        "name": "20-2-6 (3).png",
+        "prompt": "According to the given script, the character initially faces 90 degrees. After running the script, how many times does the character change direction? A.2 B.3 C.4 D.5\n"
+    },
+    {
+        "name": "20-2-6.png",
+        "prompt": "What is the result of running the given script? A.Draw a straight line B.Draw a triangle C.Draw a triangle D.Draw a triangle\n"
+    },
+    {
+        "name": "20-2-9 (2).png",
+        "prompt": "Click on the green chess piece, what kind of figure can the program draw? A.Draw a straight line from left to right B.Draw a straight line from right to left C.Draw a straight line from top to bottom D.Draw a straight line from bottom to top\n"
+    },
+    {
+        "name": "20-2-9 (3).png",
+        "prompt": "Click on the green chess piece, what kind of figure can the program draw? A.straight line B.dotted line C.dashed line D.breaking wave line\n"
+    },
+    {
+        "name": "20-2-9.png",
+        "prompt": "The result of executing the following block is A.ab B.aa C.an D.ap\n"
+    },
+    {
+        "name": "20-3-12 (11).png",
+        "prompt": "Execute the following program, what are the values ​​of the variables \"nunber\" and \"count\"? A.20,4 B.20,5 C.25,4 D.25,5\n"
+    },
+    {
+        "name": "20-3-12 (12).png",
+        "prompt": "Execute the following program, what is the value of variable C? A.A random number between 1 and 100 B.A random number between 1 and 10 C.A random number between 1 and 20 D.A random number between 2 and 20\n"
+    },
+    {
+        "name": "20-3-12 (13).png",
+        "prompt": "Execute the given program. What is the value range of \"var2\"? A.0 to 50, inclusive B.A value between 0 and var1, inclusive C.0 and 1 D.0 to 10, inclusive\n"
+    },
+    {
+        "name": "20-3-12 (15).png",
+        "prompt": "The character's initial size is 100. Click the green flag once. Which of the following statements is correct? A.The character does not touch the mouse size is 100 B.The character's size remains unchanged when it touches the mouse, and is 100 C.Whether it touches the mouse or not, the size of the character will never change. D.The size of the character will also change when it touches the edge\n"
+    },
+    {
+        "name": "20-3-12 (2).png",
+        "prompt": "The role's program is shown in the figure. Which statement is correct about what happens after the program is executed? A.The character is always moving B.The character is still C.The character moves slower and slower, and finally stops D.The character moves faster and faster\n"
+    },
+    {
+        "name": "20-3-12 (3).png",
+        "prompt": "The character's initial direction is 90 degrees. Considering only the shape, what pattern will the following program draw? A. B. C. D.\n"
+    },
+    {
+        "name": "20-3-12 (4).png",
+        "prompt": "How will the character move if the following program is executed? A.Move from right to left B.Move from left to right C.Move vertically from top to bottom D.Move back and forth horizontally\n"
+    },
+    {
+        "name": "20-3-12 (5).png",
+        "prompt": "Execute the following program, what value will the variable \"number2\" display? A.13 B.21 C.34 D.55\n"
+    },
+    {
+        "name": "20-3-12 (6).png",
+        "prompt": "Execute the following program, what is the value of variable C? A.8 B.6 C.14 D.A+B\n"
+    },
+    {
+        "name": "20-3-12 (7).png",
+        "prompt": "Execute the following program, what figure is drawn? A. B. C. D.\n"
+    },
+    {
+        "name": "20-3-12 (8).png",
+        "prompt": "Execute the following program, what value will the variable \"sum\" display? A.0 B.5 C.10 D.15\n"
+    },
+    {
+        "name": "20-3-12 (9).png",
+        "prompt": "The program of the initial character is shown in the figure below. The program of the character \"apple\" does not exist. Which of the following statements is correct? A.Only one apple B.There are 6 apples, stacked on top of each other. C.There are 6 apples, arranged in a row D.There are 5 apples, arranged in a row\n"
+    },
+    {
+        "name": "20-3-12.png",
+        "prompt": "Execute the following program. When \"My Variable\" becomes 5, how long does it take? A.1s B.5s C.6s D.4s\n"
+    },
+    {
+        "name": "20-3-6 (2).png",
+        "prompt": "Execute the given script to draw the graph. What is the final result? A. B. C. D.\n"
+    },
+    {
+        "name": "20-3-6 (3).png",
+        "prompt": "After executing the following script, what is the final value displayed by the variable \"number\"? A.6 B.12 C.14 D.24\n"
+    },
+    {
+        "name": "20-3-6 (4).png",
+        "prompt": "After executing the following script, what is the range of the variable \"sum\"? A.10 to 80 B.10 to 90 C.11 to 80 D.11 to 90\n"
+    },
+    {
+        "name": "20-3-6 (5).png",
+        "prompt": "After executing the following script, what does the character say? A.111 B.11 C.3 D.1111\n"
+    },
+    {
+        "name": "20-3-6 (6).png",
+        "prompt": "Execute the following script, what is the value of the variable \"sum\"? A.20 B.30 C.32 D.45\n"
+    },
+    {
+        "name": "20-3-6 (7).png",
+        "prompt": "After executing the following program, which direction will the character face? A.up B.down C.left D.right\n"
+    },
+    {
+        "name": "20-3-6 (8).png",
+        "prompt": "After executing the following script, what value does the variable \"number\" display? A.2 B.3 C.4 D.6\n"
+    },
+    {
+        "name": "20-3-6 (9).png",
+        "prompt": "Execute the following script. What is the color of the drawn line segment? A.red B.yellow C.white D.black\n"
+    },
+    {
+        "name": "20-3-6.png",
+        "prompt": "After executing the following script, what value does the variable \"number\" display? A.4 B.6 C.8 D.16\n"
+    },
+    {
+        "name": "20-3-9 (2).png",
+        "prompt": "a=12,b=30,c=10, what is the result of executing the following program? A.12 B.30 C.10 D.0\n"
+    },
+    {
+        "name": "20-3-9 (3).png",
+        "prompt": "If the following program is needed to draw the triangular windmill shown in the figure, what values ​​should be filled in at a, b, c, and d respectively? A.3 4 90 120 B.4 3 90 120 C.3 4 120 90 D.4 3 120 90\n"
+    },
+    {
+        "name": "20-3-9 (4).png",
+        "prompt": "What is the value of the variable i after running the following program? A.29 B.30 C.31 D.32\n"
+    },
+    {
+        "name": "20-3-9 (5).png",
+        "prompt": "After executing the following program, how many kittens will appear on the stage? A.0 B.1 C.3 D.4\n"
+    },
+    {
+        "name": "20-3-9 (6).png",
+        "prompt": "When the following program is executed, what is the final value of the variable i? A.33 B.22 C.11 D.13\n"
+    },
+    {
+        "name": "20-3-9 (7).png",
+        "prompt": "Run this program. When you input 43, what value does the character say? A.4 B.5 C.6 D.7\n"
+    },
+    {
+        "name": "20-3-9 (8).png",
+        "prompt": "The impossible result of the building blocks shown in the picture below is? A.45 B.60 C.52.5 D.90\n"
+    },
+    {
+        "name": "20-3-9.png",
+        "prompt": "If you execute the following program, how many apples will you see on the screen at most? A.10 B.11 C.1 D.Uncertain\n"
+    },
+    {
+        "name": "20-4-12 (2).png",
+        "prompt": "Which of the following statements about the program is incorrect? A.After clicking the green flag, input 3 for the first time and 4 for the second time, and the character will say \"It's Sunday\" B.After clicking the green flag, input 1 for the first time and 100 for the second time. The character will say \"It's the 1 day\" C.After clicking the green flag, input 7 for the first time and 29 for the second time. The character will say \"It's the 1 day\" D.After clicking the green flag, input 5 for the first time and 30 for the second time, and the character will say \"It's Sunday\"\n"
+    },
+    {
+        "name": "20-4-12.png",
+        "prompt": "Which of the following statements about the program is wrong? A.By calling itself in a move block, you can repeatedly execute a custom move block. B.The character will not say \"arrive\" because the program is stopped by the \"stop this script\" block C.This program allows the character to move from stage left to stage right. D.You can use a \"repeat untill\" block instead of a homemade \"move\" block\n"
+    },
+    {
+        "name": "20-4-6 (3).png",
+        "prompt": "After running the following program, what value does the character say after entering BEEFCAFE? A.0 B.4 C.5 D.3\n"
+    },
+    {
+        "name": "20-4-6 (4).png",
+        "prompt": "Execute the following program, what is the final value of the variable i? A.7 B.6 C.5 D.0\n"
+    },
+    {
+        "name": "20-4-6 (5).png",
+        "prompt": "What is the value of the following block? A.l B.r C.o D.w\n"
+    },
+    {
+        "name": "20-4-9 (11).png",
+        "prompt": "There are 30 chickens and rabbits in total, with a total of 80 legs. If you want to use the following program to find out how many chickens and rabbits there are, how should you fill in the blank parts of the program? A.80,2,4 B.30,2,4 C.80,4,2 D.30,4,2\n"
+    },
+    {
+        "name": "20-4-9 (2).png",
+        "prompt": "Execute the following program, what is the output? A.The Great Learning, The Doctrine of the Mean, Mencius, The Analects B.The Analects,The Great Learning, Mencius, The Doctrine of the Mean C.The Great Learning, Mencius, The Doctrine of the Mean, The Analects D.The Analects, The Great Learning, The Doctrine of the Mean, Mencius\n"
+    },
+    {
+        "name": "20-4-9 (3).png",
+        "prompt": "After executing the following program, what is the value of the variable \"sum\"? A.15 B.20 C.25 D.30\n"
+    },
+    {
+        "name": "20-4-9 (7).png",
+        "prompt": "Execute the following program. After inputting 21, what is the value of the variable \"number\"? A.8 B.10 C.15 D.10.5\n"
+    },
+    {
+        "name": "20-4-9 (8).png",
+        "prompt": "When executing the following program, after entering dihg, what is the value of the variable \"string\"? A.dihg B.dghig C.dihghi D.dghigh\n"
+    },
+    {
+        "name": "20-4-9 (9).png",
+        "prompt": "The figure below is a figure drawn by combining multiple squares. The program for drawing this figure is shown in the figure. What should be filled in the blank? A.11 B.12 C.13 D.14\n"
+    },
+    {
+        "name": "20-4-9.png",
+        "prompt": "Execute the following program. After inputting 4 and 7, what does the character say? A.4,7 B.7,7 C.7,4 D.4,4\n"
+    },
+    {
+        "name": "21-12-2 (2).png",
+        "prompt": "Click the green flag to execute the following program. When is the character's x coordinate at which point will the program stop running? A.51 B.50 C.49 D.48\n"
+    },
+    {
+        "name": "21-12-2 (3).png",
+        "prompt": "Run the following program, what will the character say? A.ea B.ae C.a D.blank\n"
+    },
+    {
+        "name": "21-12-2 (4).png",
+        "prompt": "After running the following program, what figure is drawn? A. B. C. D.\n"
+    },
+    {
+        "name": "21-12-2 (5).png",
+        "prompt": "Execute the following program to draw a regular hexagon. What are the values ​​of the two positions \"A\" and \"B\"? A.A:3,B:120 B.A:4,B:90 C.A:5,B:72 D.A:6,B:60\n"
+    },
+    {
+        "name": "21-12-2.png",
+        "prompt": "Click the green flag to run the program. When the program stops running, what are the coordinates of the character? A.(50,-24) B.(-24,50) C.(50,24) D.(24,50)\n"
+    },
+    {
+        "name": "21-12-3 (2).png",
+        "prompt": "Execute the following program. What is the value of \"sum\" spoken by the character? A.10 B.11 C.12 D.13\n"
+    },
+    {
+        "name": "21-12-3 (3).png",
+        "prompt": "Execute the following program. What is the value of the variable \"product\"? A.The minimum value is 1 and the maximum value is 5 B.The minimum value is 2 and the maximum value is 20 C.The minimum value is 5 and the maximum value is 20 D.The minimum value is 2 and the maximum value is 50\n"
+    },
+    {
+        "name": "21-12-3 (4).png",
+        "prompt": "Execute the following program, what figure will be drawn? A. B. C. D.\n"
+    },
+    {
+        "name": "21-12-3.png",
+        "prompt": "Execute the following program. What is the value of \"My Variable\"? A.10 B.8 C.7 D.5\n"
+    },
+    {
+        "name": "21-12-4 (2).png",
+        "prompt": "Draw the graph shown below. What should the values ​​of ABCD in the program be? A.4,60,6,90 B.6,60,4,90 C.4,90,6,60 D.6,90,4,60\n"
+    },
+    {
+        "name": "21-3-2-r (5).png",
+        "prompt": "What is the size of the character after executing the following code? A.0 B.80 C.100 D.120\n"
+    },
+    {
+        "name": "21-3-2-s (2).png",
+        "prompt": "After the program in the figure below is run, what are the coordinates of the character? A.(0,0) B.(100,100) C.(100,0) D.(0,100)\n"
+    },
+    {
+        "name": "21-3-3-r (4).png",
+        "prompt": "Execute the following program, what will the character say? A.Windows B.Macos C.sa D.wM\n"
+    },
+    {
+        "name": "21-3-3-r (6).png",
+        "prompt": "After executing the program in the figure below, which statement is correct? A.Enter 60 points and say \"Pass\" B.Enter 80 points and say \"Good\" C.Enter 90 points and say \"Excellent\" D.Enter 50 points and say nothing\n"
+    },
+    {
+        "name": "21-3-3-s (2).png",
+        "prompt": "Run the following script, what is the value of variable i? A.6 B.5 C.4 D.3\n"
+    },
+    {
+        "name": "21-3-3-s (5).png",
+        "prompt": "When the following code is executed, what is the character's x coordinate? A.0 B.24 C.40 D.120\n"
+    },
+    {
+        "name": "21-3-3-s (6).png",
+        "prompt": "If a character's code is as follows, click Start, what effect will occur when you click the character? A.The character walks and says the number \"1\" B.The character moves a distance C.The character disappears D.The character disappears after saying the number \"1\"\n"
+    },
+    {
+        "name": "21-3-3-s (7).png",
+        "prompt": "Run the following script, what is the value of num? A.11 B.12 C.110 D.100\n"
+    },
+    {
+        "name": "21-3-3-s (8).png",
+        "prompt": "After the following blocks are run, what is the value of the variable \"number\"? A.15 B.12 C.17 D.22\n"
+    },
+    {
+        "name": "21-3-3-s.png",
+        "prompt": "In order to draw the triangular windmill shown in the figure after running the following code, what should ABCD be in the following code? A.3,4,90,120 B.4,3,90,120 C.3,4,120,90 D.4,3,120,90\n"
+    },
+    {
+        "name": "21-3-4-r (2).png",
+        "prompt": "When you input \"banana\", what does the character say? A.aaa B.aan C.bnn D.aa\n"
+    },
+    {
+        "name": "21-3-4-r (6).png",
+        "prompt": "Run the program shown below. What shape will the character draw? A. B. C. D.\n"
+    },
+    {
+        "name": "21-3-4-r (7).png",
+        "prompt": "Run the program shown below and input 5 and 7 at a time. What are the final values ​​of variables A and B? A.A=0,B=5 B.A=2,B=5 C.A=5,B=5 D.A=7,B=5\n"
+    },
+    {
+        "name": "21-3-4-r (8).png",
+        "prompt": "Run the program shown below. What is the final value of variable A? A.807 B.785 C.827 D.857\n"
+    },
+    {
+        "name": "21-3-4-r (9).png",
+        "prompt": "After running the program shown in the figure below, what are the coordinates of the character? A.(0,0) B.(50,0) C.(30,0) D.(90,0)\n"
+    },
+    {
+        "name": "21-3-4-s (2).png",
+        "prompt": "Run the program and draw the group as shown in the figure. What values ​​should be filled in the blanks in the program? A.6,30,120 B.6,120,120 C.3,60,120 D.6,120,60\n"
+    },
+    {
+        "name": "21-3-4-s (3).png",
+        "prompt": "Run the program shown below. What is the value of the variable \"sum\"? A.50 B.55 C.45 D.60\n"
+    },
+    {
+        "name": "21-3-4-s (6).png",
+        "prompt": "Run the program and enter ABCDEF. What does the character say? A.0ABCDEF B.FEDCBA C.0FEDCBA D.ABCDEF0\n"
+    },
+    {
+        "name": "21-3-4-s (7).png",
+        "prompt": "After running the program shown below, what value will the character say? A.48 B.0 C.90 D.180\n"
+    },
+    {
+        "name": "21-3-4-s (8).png",
+        "prompt": "Make your own building blocks as shown below. After running the program, what shape will the character draw on the stage? A. B. C. D.\n"
+    },
+    {
+        "name": "21-3-4-s.png",
+        "prompt": "Run the following program and input 60. What is the value of the variable \"number\"? A.60 B.80 C.40 D.100\n"
+    },
+    {
+        "name": "21-6-1 (2).png",
+        "prompt": "Run the following program. What shape is formed by the path that the character walks? A.square B.triangle C.round D.trapezoid\n"
+    },
+    {
+        "name": "21-6-1 (3).png",
+        "prompt": "Run the following program. Which number will the character say? A.18 B.20 C.24 D.14\n"
+    },
+    {
+        "name": "21-6-1.png",
+        "prompt": "After running the following program, what number is displayed? A.3 B.5 C.7 D.9\n"
+    },
+    {
+        "name": "21-6-2 (2).png",
+        "prompt": "What is the result of running the following program? A.no result B.say \"6*6\" C.say \"50\" D.say \"36\"\n"
+    },
+    {
+        "name": "21-6-2 (3).png",
+        "prompt": "According to the program given below, what shape is drawn? A.oval B.square C.round D.triangle\n"
+    },
+    {
+        "name": "21-6-3 (3).png",
+        "prompt": "After the following program is executed once, what the character can't say is? A.1 B.11 C.20 D.2\n"
+    },
+    {
+        "name": "21-6-3 (4).png",
+        "prompt": "After executing the following program, what will the character say as the result? A.4 B.5 C.4.5 D.6\n"
+    },
+    {
+        "name": "21-6-3 (5).png",
+        "prompt": "Which of the following statements about the graphics that the program below can draw is correct? A.Only regular quadrilaterals can be drawn B.Only regular pentagons can be drawn C.You can draw polygons of any length D.By changing the value of the variable number, you can draw different regular polygons\n"
+    },
+    {
+        "name": "21-6-3 (6).png",
+        "prompt": "After the program in the figure below is executed once, what are the values ​​of variables A and B respectively? A.50,60 B.50,61 C.51,60 D.51,61\n"
+    },
+    {
+        "name": "21-6-3 (7).png",
+        "prompt": "Execute the program below. What will the character say? A.34 B.28 C.51 D.42\n"
+    },
+    {
+        "name": "21-6-3 (8).png",
+        "prompt": "What figure does the following program draw? A. B. C. D.\n"
+    },
+    {
+        "name": "21-6-3 (9).png",
+        "prompt": "What figure does the following program draw? A.square B.triangle C.rectangle D.round\n"
+    },
+    {
+        "name": "21-6-4 (6).png",
+        "prompt": "Execute the following program, what is the value of the variable sum? A.190 B.171 C.55 D.65\n"
+    },
+    {
+        "name": "21-6-4 (7).png",
+        "prompt": "What figure will be drawn by executing the following program? A. B. C. D.\n"
+    },
+    {
+        "name": "21-6-4.png",
+        "prompt": "Execute the following program, what is the output? A.12 B.24 C.8 D.30\n"
+    },
+    {
+        "name": "21-9-3 (2).png",
+        "prompt": "What graph does the following program draw? A.square B.rectangle C.diamond D.no graphics appear\n"
+    },
+    {
+        "name": "21-9-3 (3).png",
+        "prompt": "What is the value of A after executing the following program? A.15 B.20 C.40 D.50\n"
+    },
+    {
+        "name": "21-9-3 (4).png",
+        "prompt": "After the program in the figure below is executed once, what trace is drawn? A. B. C. D.\n"
+    },
+    {
+        "name": "21-9-3 (5).png",
+        "prompt": "What is the graph obtained after executing the program in the figure below once? A. B. C. D.\n"
+    },
+    {
+        "name": "21-9-4.png",
+        "prompt": "What pattern will appear on the stage after executing the following program? A. B. C. D.\n"
+    },
+    {
+        "name": "22-3-1 (2).png",
+        "prompt": "Run the following program. What shape will the character walk through? A.triangle B.square C.rectangle D.regular pentagon"
+    }
+]
